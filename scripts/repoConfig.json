@@ -1,9 +1,9 @@
 {
-  "repoName":"UserRepo",
+  "repoName":"Forti-ProductXYZ",
   "author":"Jeff Kopko",
-  "workshopTitle":"Hugo for Fortinet TECWorkshops",
+  "workshopTitle":"Forti-SampleProduct",
   "themeVariant":"Workshop",
-  "logoBannerText":"FortiHugo",
+  "logoBannerText":"Forti SampleProduct",
   "logoBannerSubText":"",
   "errorLevel":"warning",
   "googleServicesID":"G-5RZBH288ST",
